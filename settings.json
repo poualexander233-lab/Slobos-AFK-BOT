@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BebeVoight",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bebetech.aternos.me",
-    "port": 31506,
+    "ip": "Bebetech.aternos.me",
+    "port": 14346,
     "version": "1.21.1"
   },
   "position": {
