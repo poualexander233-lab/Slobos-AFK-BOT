@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ItzBebeVoight",
+    "username": "ItzVoight",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Soy un bebe no un bot lo juro",
-        "¡Soy un bebe!",
-        "Soy un exclavo ;("
+        "SOY UN BEBE NO UN BOT!!!",
+        "soy un exclavo de nonyjustin ;(",
+        "ME ENCANTA JUGAR Minecraft Y NADIE ME OBLIO A DECIR ESTO!!!"
       ]
     },
     "chat-log": true,
