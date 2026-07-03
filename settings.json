@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "ItzVoight",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MedievalSMP4.aternos.me",
-    "port": 24680,
+    "ip": "Bebetech.aternos.me",
+    "port": 14346,
     "version": "1.21.11"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "SOY UN BEBE NO UN BOT!!!",
+        "soy un exclavo de nonyjustin ;(",
+        "ME ENCANTA JUGAR Minecraft Y NADIE ME OBLIO A DECIR ESTO!!!"
       ]
     },
     "chat-log": true,
